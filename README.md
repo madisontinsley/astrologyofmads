@@ -10,12 +10,12 @@ So, today I am going to take a journey through my natal chart, an astrological s
 
 And, a little introduction to the ideas in astrology, which is way more than just the typical sun sign.
 
-**Please feel free to have fun with this, you do not have to be a believer and I am not asking you to be!**
-
-below are three introduction pages, then a short analysis of my own birth chart:
+Below are three introduction pages, then a short analysis of my own birth chart:
 
 [Astrological Signs](https://github.com/madisontinsley/astrologyofmads/blob/main/signs.md)
 
 [Astrological planets](https://github.com/madisontinsley/astrologyofmads/blob/main/placements.md)
 
 [My natal chart](https://github.com/madisontinsley/astrologyofmads/blob/main/natal.md)
+
+**Please feel free to have fun with this, you do not have to be a believer and I am not asking you to be!**
