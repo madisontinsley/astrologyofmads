@@ -2,8 +2,8 @@
 
 Below, you can see the 7 main planets, but the sign they are in is based off of the moment I was born on December 27th, 2001 at 3:15 PM.
 
-Every planets transits through the constellation correlating to the signs, each transition at their own length. Saturn takes the longest of the main 7 to transition through each sign, about 3 years each, while the moon is the shortest, only taking about 2 days.
-I used [AstroChart](https://astro-charts.com/) to pull up my natal chart, click here to enter yours as well!
+Every planets transits through the constellation correlating to the signs, each transition at their own length. Saturn takes the longest to transition through each sign, taking about 3 years each, while the moon is the shortest, only taking about 2 days.
+I used [AstroChart](https://astro-charts.com/) to pull up my natal chart, feel free to head to the site to enter yours as well!
 
 ![natalchart](https://user-images.githubusercontent.com/116019929/197266151-455bb2d8-5067-40ca-8a30-284e66e4e7ac.png)
 
