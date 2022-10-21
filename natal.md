@@ -18,4 +18,5 @@ As you can see, I have a lot of placements, or planets, in the sign of Capricorn
   * With Jupiter in Cancer, **I experience more sensitivity and empathy to those around me.**
 
 [Next: Python Program for the Astrological Signs](https://github.com/madisontinsley/astrologyofmads/blob/main/astrosigns.py)
+
 [Back: Astrological Planets](https://github.com/madisontinsley/astrologyofmads/blob/main/placements.md)
