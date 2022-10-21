@@ -17,4 +17,5 @@ As you can see, I have a lot of placements, or planets, in the sign of Capricorn
   * With Saturn in Gemini, **I have more limitations in terms of communication and I work hard to get my point across.**
   * With Jupiter in Cancer, **I experience more sensitivity and empathy to those around me.**
 
-[Next:
+[Next: Python Program for the Astrological Signs](https://github.com/madisontinsley/astrologyofmads/blob/main/astrosigns.py)
+[Back: Astrological Planets](https://github.com/madisontinsley/astrologyofmads/blob/main/placements.md)
