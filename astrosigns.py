@@ -1,7 +1,6 @@
 print('Want to learn more about the astrological signs?')
 print('Use the menu below to pull up information about each of them!')
 signs = ['1 for Aries', '2 for Taurus', '3 for Gemini', '4 for Cancer', '5 for Leo', '6 for Virgo', '7 for Libra', '8 for Scorpio', '9 for Sagittarius','10 for Capricorn','11 for Aquarius','12 for Pisces']
-index = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
 for str in signs:
     print('Enter ' + str)
     
