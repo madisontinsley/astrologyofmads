@@ -32,3 +32,5 @@ The main planets include:
 * **Saturn**, ruling Capricorn and Aquarius
 
   the planet of structure, construction
+  
+  [Next: My Natal Chart](https://github.com/madisontinsley/astrologyofmads/blob/main/natal.md)
