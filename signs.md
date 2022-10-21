@@ -53,6 +53,6 @@ In order of this transition they are:
 
 * **Pisces**, the final **water** sign
 
-  the idealistic, affectionate sign ruled by jupiter.
+  the idealistic, creative sign ruled by jupiter.
   
   [Next: Astrological Planets](https://github.com/madisontinsley/astrologyofmads/blob/main/placements.md)
