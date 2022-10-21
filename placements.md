@@ -34,4 +34,5 @@ The main planets include:
   the planet of structure, construction
   
   [Next: My Natal Chart](https://github.com/madisontinsley/astrologyofmads/blob/main/natal.md)
+  
   [Back: Astrological Signs](https://github.com/madisontinsley/astrologyofmads/blob/main/signs.md)
