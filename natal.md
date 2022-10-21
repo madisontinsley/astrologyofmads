@@ -16,3 +16,5 @@ As you can see, I have a lot of placements, or planets, in the sign of Capricorn
   * As a Pisces Mars, **I am motivated by my creativity, and I have a tendency to escape through art or video games to release stress.**
   * With Saturn in Gemini, **I have more limitations in terms of communication and I work hard to get my point across.**
   * With Jupiter in Cancer, **I experience more sensitivity and empathy to those around me.**
+
+[Next:
