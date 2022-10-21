@@ -18,6 +18,4 @@ below are three introduction pages, then a short analysis of my own birth chart:
 
 [Astrological planets](https://github.com/madisontinsley/astrologyofmads/blob/main/placements.md)
 
-[Astrological houses](https://github.com/madisontinsley/astrologyofmads/blob/main/houses.md)
-
 [My natal chart](https://github.com/madisontinsley/astrologyofmads/blob/main/natal.md)
